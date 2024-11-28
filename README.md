@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Markus Müller</h1>
 <h3 align="center">A graduate programmer from Berlin, Germany</h3>
 
-- 🌱 I’m currently learning **CI/CD Pipelines and Python**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://markmc17.github.io/Markmc17-Markmc17.github.io/](https://markmc17.github.io/Markmc17-Markmc17.github.io/)
 
