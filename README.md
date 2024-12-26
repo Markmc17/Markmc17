@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Markus Müller</h1>
 <h3 align="center">A graduate programmer from Berlin, Germany</h3>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Unity 6**
 
 - 👨‍💻 All of my projects are available at [https://markmc17.github.io/Markmc17-Markmc17.github.io/](https://markmc17.github.io/Markmc17-Markmc17.github.io/)
 
