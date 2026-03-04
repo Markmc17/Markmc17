@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Markus Müller</h1>
-<h3 align="center">A junionr programmer from Berlin, Germany</h3>
+<h3 align="center">A junior programmer from Berlin, Germany</h3>
 
 - 🌱 I’m currently learning **Godot**
 
